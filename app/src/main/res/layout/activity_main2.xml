@@ -64,7 +64,7 @@
         android:id="@+id/button"
         android:layout_width="129dp"
         android:layout_height="69dp"
-        android:text="Button"
+        android:text="Confirm"
         app:backgroundTint="#763435"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/EmailAddress"
